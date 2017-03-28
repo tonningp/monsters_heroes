@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>troll1.jpg</file>
+        <file>troll2.gif</file>
+        <file>troll1.png</file>
+        <file>sprite_sheet_01.png</file>
+        <file>qpixmap_sprite.png</file>
+        <file>sprite_sheet_monster_01.png</file>
+        <file>background_01.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>troll1.png</file>
+    </qresource>
+</RCC>
